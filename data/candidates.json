@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "name": "Alice Johnson",
+    "skills": ["React", "TypeScript", "Node.js", "AWS", "MongoDB"],
+    "yearsOfExperience": 5,
+    "location": "Remote",
+    "salaryExpectation": 120000,
+    "resumeText": "Experienced full-stack developer with expertise in React, TypeScript, and cloud technologies. Built scalable web applications using Node.js and AWS. Strong background in MongoDB and RESTful API design."
+  },
+  {
+    "id": "2",
+    "name": "Bob Smith",
+    "skills": ["Python", "Django", "PostgreSQL", "Docker", "Redis"],
+    "yearsOfExperience": 3,
+    "location": "New York",
+    "salaryExpectation": 95000,
+    "resumeText": "Backend developer specializing in Python and Django. Experience with database optimization and containerization using Docker. Proficient in Redis caching and PostgreSQL performance tuning."
+  },
+  {
+    "id": "3",
+    "name": "Carol White",
+    "skills": ["React", "JavaScript", "CSS", "Node.js", "GraphQL"],
+    "yearsOfExperience": 4,
+    "location": "Remote",
+    "salaryExpectation": 110000,
+    "resumeText": "Frontend-focused engineer with strong React and JavaScript skills. Built modern web applications with GraphQL APIs and responsive designs. Passionate about user experience and accessibility."
+  },
+  {
+    "id": "4",
+    "name": "David Lee",
+    "skills": ["Java", "Spring Boot", "MySQL", "Kubernetes", "AWS"],
+    "yearsOfExperience": 7,
+    "location": "San Francisco",
+    "salaryExpectation": 150000,
+    "resumeText": "Senior backend engineer with Java and Spring Boot expertise. Led microservices architecture projects using Kubernetes and AWS cloud infrastructure. Experience with high-traffic systems."
+  },
+  {
+    "id": "5",
+    "name": "Emma Davis",
+    "skills": ["React", "TypeScript", "Node.js", "MongoDB", "Jest"],
+    "yearsOfExperience": 4,
+    "location": "Remote",
+    "salaryExpectation": 105000,
+    "resumeText": "Full-stack developer proficient in React, TypeScript, and Node.js. Strong focus on testing and code quality using Jest and modern development practices. Built multiple production applications."
+  },
+  {
+    "id": "6",
+    "name": "Frank Miller",
+    "skills": ["Angular", "TypeScript", "C#", ".NET", "Azure"],
+    "yearsOfExperience": 6,
+    "location": "Boston",
+    "salaryExpectation": 130000,
+    "resumeText": "Full-stack .NET developer with Angular expertise. Experience building enterprise applications on Azure cloud platform. Strong background in C# and TypeScript development."
+  },
+  {
+    "id": "7",
+    "name": "Grace Chen",
+    "skills": ["React", "TypeScript", "Python", "FastAPI", "AWS"],
+    "yearsOfExperience": 3,
+    "location": "Remote",
+    "salaryExpectation": 100000,
+    "resumeText": "Versatile developer with experience in both frontend and backend. Built modern applications using React and Python FastAPI. Deployed multiple projects on AWS infrastructure."
+  },
+  {
+    "id": "8",
+    "name": "Henry Wilson",
+    "skills": ["Vue.js", "JavaScript", "Node.js", "PostgreSQL", "Docker"],
+    "yearsOfExperience": 2,
+    "location": "Seattle",
+    "salaryExpectation": 85000,
+    "resumeText": "Junior full-stack developer specializing in Vue.js and Node.js. Quick learner with strong fundamentals. Experience with PostgreSQL and containerized deployments."
+  }
+]
